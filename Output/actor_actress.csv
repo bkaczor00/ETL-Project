@@ -1,0 +1,183 @@
+year,category,winner,entity,First Name,Last Name,ID Number
+1927,ACTOR,True,Emil Jannings,Emil,Jannings,2895
+1927,ACTRESS,True,Janet Gaynor,Janet,Gaynor,9088
+1928,ACTOR,True,Warner Baxter,Warner,Baxter,29999
+1928,ACTRESS,True,Mary Pickford,Mary,Pickford,100047
+1929,ACTOR,True,George Arliss,George,Arliss,124309
+1929,ACTRESS,True,Norma Shearer,Norma,Shearer,88867
+1930,ACTOR,True,Lionel Barrymore,Lionel,Barrymore,17753
+1930,ACTRESS,True,Marie Dressler,Marie,Dressler,89610
+1931,ACTOR,True,Wallace Beery,Wallace,Beery,29260
+1931,ACTOR,True,Fredric March,Fredric,March,13576
+1931,ACTRESS,True,Helen Hayes,Helen,Hayes,47439
+1932,ACTOR,True,Charles Laughton,Charles,Laughton,10921
+1932,ACTRESS,True,Katharine Hepburn,Katharine,Hepburn,6598
+1934,ACTOR,True,Clark Gable,Clark,Gable,11492
+1934,ACTRESS,True,Claudette Colbert,Claudette,Colbert,30155
+1935,ACTOR,True,Victor McLaglen,Victor,McLaglen,30495
+1935,ACTRESS,True,Bette Davis,Bette,Davis,3380
+1936,ACTOR,True,Paul Muni,Paul,Muni,13352
+1936,ACTRESS,True,Luise Rainer,Luise,Rainer,125482
+1937,ACTOR,True,Spencer Tracy,Spencer,Tracy,12147
+1937,ACTRESS,True,Luise Rainer,Luise,Rainer,125482
+1938,ACTOR,True,Spencer Tracy,Spencer,Tracy,12147
+1938,ACTRESS,True,Bette Davis,Bette,Davis,3380
+1939,ACTOR,True,Robert Donat,Robert,Donat,3609
+1939,ACTRESS,True,Vivien Leigh,Vivien,Leigh,10538
+1940,ACTOR,True,James Stewart,James,Stewart,854
+1940,ACTRESS,True,Ginger Rogers,Ginger,Rogers,30003
+1941,ACTOR,True,Gary Cooper,Gary,Cooper,4068
+1941,ACTRESS,True,Joan Fontaine,Joan,Fontaine,3360
+1942,ACTOR,True,James Cagney,James,Cagney,5788
+1942,ACTRESS,True,Greer Garson,Greer,Garson,93805
+1943,ACTOR,True,Paul Lukas,Paul,Lukas,2092
+1943,ACTRESS,True,Jennifer Jones,Jennifer,Jones,39554
+1944,ACTOR,True,Bing Crosby,Bing,Crosby,24937
+1944,ACTRESS,True,Ingrid Bergman,Ingrid,Bergman,4111
+1945,ACTOR,True,Ray Milland,Ray,Milland,7124
+1945,ACTRESS,True,Joan Crawford,Joan,Crawford,31550
+1946,ACTOR,True,Fredric March,Fredric,March,13576
+1946,ACTRESS,True,Olivia de Havilland,Olivia,de,8725
+1947,ACTOR,True,Ronald Colman,Ronald,Colman,29522
+1947,ACTRESS,True,Loretta Young,Loretta,Young,85848
+1948,ACTOR,True,Laurence Olivier,Laurence,Olivier,3359
+1948,ACTRESS,True,Jane Wyman,Jane,Wyman,20391
+1949,ACTOR,True,Broderick Crawford,Broderick,Crawford,85895
+1949,ACTRESS,True,Olivia de Havilland,Olivia,de,8725
+1950,ACTOR,True,José Ferrer,José,Ferrer,12515
+1950,ACTRESS,True,Judy Holliday,Judy,Holliday,85651
+1951,ACTOR,True,Humphrey Bogart,Humphrey,Bogart,4110
+1951,ACTRESS,True,Vivien Leigh,Vivien,Leigh,10538
+1952,ACTOR,True,Gary Cooper,Gary,Cooper,4068
+1952,ACTRESS,True,Shirley Booth,Shirley,Booth,113284
+1953,ACTOR,True,William Holden,William,Holden,8252
+1953,ACTRESS,True,Audrey Hepburn,Audrey,Hepburn,1932
+1954,ACTOR,True,Marlon Brando,Marlon,Brando,3084
+1954,ACTRESS,True,Grace Kelly,Grace,Kelly,4070
+1955,ACTOR,True,Ernest Borgnine,Ernest,Borgnine,7502
+1955,ACTRESS,True,Anna Magnani,Anna,Magnani,4421
+1956,ACTOR,True,Yul Brynner,Yul,Brynner,14528
+1956,ACTRESS,True,Ingrid Bergman,Ingrid,Bergman,4111
+1957,ACTOR,True,Alec Guinness,Alec,Guinness,12248
+1957,ACTRESS,True,Joanne Woodward,Joanne,Woodward,109410
+1958,ACTOR,True,David Niven,David,Niven,14261
+1958,ACTRESS,True,Susan Hayward,Susan,Hayward,30124
+1959,ACTOR,True,Charlton Heston,Charlton,Heston,10017
+1959,ACTRESS,True,Simone Signoret,Simone,Signoret,12266
+1960,ACTOR,True,Burt Lancaster,Burt,Lancaster,13784
+1960,ACTRESS,True,Elizabeth Taylor,Elizabeth,Taylor,3635
+1961,ACTOR,True,Maximilian Schell,Maximilian,Schell,12150
+1961,ACTRESS,True,Sophia Loren,Sophia,Loren,16757
+1962,ACTOR,True,Gregory Peck,Gregory,Peck,8487
+1962,ACTRESS,True,Anne Bancroft,Anne,Bancroft,10774
+1963,ACTOR,True,Sidney Poitier,Sidney,Poitier,16897
+1963,ACTRESS,True,Patricia Neal,Patricia,Neal,1934
+1964,ACTOR,True,Rex Harrison,Rex,Harrison,35321
+1964,ACTRESS,True,Julie Andrews,Julie,Andrews,5823
+1965,ACTOR,True,Lee Marvin,Lee,Marvin,18391
+1965,ACTRESS,True,Julie Christie,Julie,Christie,1666
+1966,ACTOR,True,Paul Scofield,Paul,Scofield,13324
+1966,ACTRESS,True,Elizabeth Taylor,Elizabeth,Taylor,3635
+1967,ACTOR,True,Rod Steiger,Rod,Steiger,522
+1967,ACTRESS,True,Katharine Hepburn,Katharine,Hepburn,6598
+1968,ACTOR,True,Cliff Robertson,Cliff,Robertson,19153
+1968,ACTRESS,True,Katharine Hepburn,Katharine,Hepburn,6598
+1968,ACTRESS,True,Barbra Streisand,Barbra,Streisand,10400
+1969,ACTOR,True,John Wayne,John,Wayne,4165
+1969,ACTRESS,True,Maggie Smith,Maggie,Smith,10978
+1970,ACTOR,True,George C. Scott,George,C.,862
+1970,ACTRESS,True,Glenda Jackson,Glenda,Jackson,115573
+1971,ACTOR,True,Gene Hackman,Gene,Hackman,193
+1971,ACTRESS,True,Jane Fonda,Jane,Fonda,6352
+1972,ACTOR,True,Marlon Brando,Marlon,Brando,3084
+1972,ACTRESS,True,Liza Minnelli,Liza,Minnelli,66776
+1973,ACTOR,True,Jack Lemmon,Jack,Lemmon,3151
+1973,ACTRESS,True,Glenda Jackson,Glenda,Jackson,115573
+1974,ACTOR,True,Art Carney,Art,Carney,40176
+1974,ACTRESS,True,Ellen Burstyn,Ellen,Burstyn,9560
+1975,ACTOR,True,Jack Nicholson,Jack,Nicholson,514
+1975,ACTRESS,True,Louise Fletcher,Louise,Fletcher,7071
+1976,ACTOR IN A LEADING ROLE,True,Peter Finch,Peter,Finch,29903
+1976,ACTRESS IN A LEADING ROLE,True,Faye Dunaway,Faye,Dunaway,6450
+1977,ACTOR IN A LEADING ROLE,True,Richard Dreyfuss,Richard,Dreyfuss,3037
+1977,ACTRESS IN A LEADING ROLE,True,Diane Keaton,Diane,Keaton,3092
+1978,ACTOR IN A LEADING ROLE,True,Jon Voight,Jon,Voight,10127
+1978,ACTRESS IN A LEADING ROLE,True,Jane Fonda,Jane,Fonda,6352
+1979,ACTOR IN A LEADING ROLE,True,Dustin Hoffman,Dustin,Hoffman,4483
+1979,ACTRESS IN A LEADING ROLE,True,Sally Field,Sally,Field,35
+1980,ACTOR IN A LEADING ROLE,True,Robert De Niro,Robert,De,380
+1980,ACTRESS IN A LEADING ROLE,True,Sissy Spacek,Sissy,Spacek,5606
+1981,ACTOR IN A LEADING ROLE,True,Henry Fonda,Henry,Fonda,4958
+1981,ACTRESS IN A LEADING ROLE,True,Katharine Hepburn,Katharine,Hepburn,6598
+1982,ACTOR IN A LEADING ROLE,True,Ben Kingsley,Ben,Kingsley,2282
+1982,ACTRESS IN A LEADING ROLE,True,Meryl Streep,Meryl,Streep,5064
+1983,ACTOR IN A LEADING ROLE,True,Robert Duvall,Robert,Duvall,3087
+1983,ACTRESS IN A LEADING ROLE,True,Shirley MacLaine,Shirley,MacLaine,4090
+1984,ACTOR IN A LEADING ROLE,True,F. Murray Abraham,F.,Murray,1164
+1984,ACTRESS IN A LEADING ROLE,True,Sally Field,Sally,Field,35
+1985,ACTOR IN A LEADING ROLE,True,William Hurt,William,Hurt,227
+1985,ACTRESS IN A LEADING ROLE,True,Geraldine Page,Geraldine,Page,41283
+1986,ACTOR IN A LEADING ROLE,True,Paul Newman,Paul,Newman,3636
+1986,ACTRESS IN A LEADING ROLE,True,Marlee Matlin,Marlee,Matlin,19797
+1987,ACTOR IN A LEADING ROLE,True,Michael Douglas,Michael,Douglas,3392
+1987,ACTRESS IN A LEADING ROLE,True,Cher,Cher,,38225
+1988,ACTOR IN A LEADING ROLE,True,Dustin Hoffman,Dustin,Hoffman,4483
+1988,ACTRESS IN A LEADING ROLE,True,Jodie Foster,Jodie,Foster,1038
+1989,ACTOR IN A LEADING ROLE,True,Daniel Day Lewis,Daniel,Day,11856
+1989,ACTRESS IN A LEADING ROLE,True,Jessica Tandy,Jessica,Tandy,5698
+1990,ACTOR IN A LEADING ROLE,True,Jeremy Irons,Jeremy,Irons,16940
+1990,ACTRESS IN A LEADING ROLE,True,Kathy Bates,Kathy,Bates,8534
+1991,ACTOR IN A LEADING ROLE,True,Anthony Hopkins,Anthony,Hopkins,4173
+1991,ACTRESS IN A LEADING ROLE,True,Jodie Foster,Jodie,Foster,1038
+1992,ACTOR IN A LEADING ROLE,True,Al Pacino,Al,Pacino,1158
+1992,ACTRESS IN A LEADING ROLE,True,Emma Thompson,Emma,Thompson,7056
+1993,ACTOR IN A LEADING ROLE,True,Tom Hanks,Tom,Hanks,31
+1993,ACTRESS IN A LEADING ROLE,True,Holly Hunter,Holly,Hunter,18686
+1994,ACTOR IN A LEADING ROLE,True,Tom Hanks,Tom,Hanks,31
+1994,ACTRESS IN A LEADING ROLE,True,Jessica Lange,Jessica,Lange,4431
+1995,ACTOR IN A LEADING ROLE,True,Nicolas Cage,Nicolas,Cage,2963
+1995,ACTRESS IN A LEADING ROLE,True,Susan Sarandon,Susan,Sarandon,4038
+1996,ACTOR IN A LEADING ROLE,True,Geoffrey Rush,Geoffrey,Rush,118
+1996,ACTRESS IN A LEADING ROLE,True,Frances McDormand,Frances,McDormand,3910
+1997,ACTOR IN A LEADING ROLE,True,Jack Nicholson,Jack,Nicholson,514
+1997,ACTRESS IN A LEADING ROLE,True,Helen Hunt,Helen,Hunt,9994
+1998,ACTOR IN A LEADING ROLE,True,Roberto Benigni,Roberto,Benigni,4818
+1998,ACTRESS IN A LEADING ROLE,True,Gwyneth Paltrow,Gwyneth,Paltrow,12052
+1999,ACTOR IN A LEADING ROLE,True,Kevin Spacey,Kevin,Spacey,1979
+1999,ACTRESS IN A LEADING ROLE,True,Hilary Swank,Hilary,Swank,448
+2000,ACTOR IN A LEADING ROLE,True,Russell Crowe,Russell,Crowe,934
+2000,ACTRESS IN A LEADING ROLE,True,Julia Roberts,Julia,Roberts,1204
+2001,ACTOR IN A LEADING ROLE,True,Denzel Washington,Denzel,Washington,5292
+2001,ACTRESS IN A LEADING ROLE,True,Halle Berry,Halle,Berry,4587
+2002,ACTOR IN A LEADING ROLE,True,Adrien Brody,Adrien,Brody,3490
+2002,ACTRESS IN A LEADING ROLE,True,Nicole Kidman,Nicole,Kidman,2227
+2003,ACTOR IN A LEADING ROLE,True,Sean Penn,Sean,Penn,2228
+2003,ACTRESS IN A LEADING ROLE,True,Charlize Theron,Charlize,Theron,6885
+2004,ACTOR IN A LEADING ROLE,True,Jamie Foxx,Jamie,Foxx,134
+2004,ACTRESS IN A LEADING ROLE,True,Hilary Swank,Hilary,Swank,448
+2005,ACTOR IN A LEADING ROLE,True,Philip Seymour Hoffman,Philip,Seymour,1233
+2005,ACTRESS IN A LEADING ROLE,True,Reese Witherspoon,Reese,Witherspoon,368
+2006,ACTOR IN A LEADING ROLE,True,Forest Whitaker,Forest,Whitaker,2178
+2006,ACTRESS IN A LEADING ROLE,True,Helen Mirren,Helen,Mirren,15735
+2007,ACTOR IN A LEADING ROLE,True,Daniel Day-Lewis,Daniel,Day-Lewis,11856
+2007,ACTRESS IN A LEADING ROLE,True,Marion Cotillard,Marion,Cotillard,8293
+2008,ACTOR IN A LEADING ROLE,True,Sean Penn,Sean,Penn,2228
+2008,ACTRESS IN A LEADING ROLE,True,Kate Winslet,Kate,Winslet,204
+2009,ACTOR IN A LEADING ROLE,True,Jeff Bridges,Jeff,Bridges,1229
+2009,ACTRESS IN A LEADING ROLE,True,Sandra Bullock,Sandra,Bullock,18277
+2010,ACTOR IN A LEADING ROLE,True,Colin Firth,Colin,Firth,5472
+2010,ACTRESS IN A LEADING ROLE,True,Natalie Portman,Natalie,Portman,524
+2011,ACTOR IN A LEADING ROLE,True,Jean Dujardin,Jean,Dujardin,56024
+2011,ACTRESS IN A LEADING ROLE,True,Meryl Streep,Meryl,Streep,5064
+2012,ACTOR IN A LEADING ROLE,True,Daniel Day-Lewis,Daniel,Day-Lewis,11856
+2012,ACTRESS IN A LEADING ROLE,True,Jennifer Lawrence,Jennifer,Lawrence,72129
+2013,ACTOR IN A LEADING ROLE,True,Matthew McConaughey,Matthew,McConaughey,10297
+2013,ACTRESS IN A LEADING ROLE,True,Cate Blanchett,Cate,Blanchett,112
+2014,ACTOR IN A LEADING ROLE,True,Eddie Redmayne,Eddie,Redmayne,37632
+2014,ACTRESS IN A LEADING ROLE,True,Julianne Moore,Julianne,Moore,1231
+2015,ACTOR IN A LEADING ROLE,True,Leonardo DiCaprio,Leonardo,DiCaprio,6193
+2015,ACTRESS IN A LEADING ROLE,True,Brie Larson,Brie,Larson,60073
+2016,ACTOR IN A LEADING ROLE,True,Casey Affleck,Casey,Affleck,1893
+2016,ACTRESS IN A LEADING ROLE,True,Emma Stone,Emma,Stone,54693
+2017,ACTOR IN A LEADING ROLE,True,Gary Oldman,Gary,Oldman,64
+2017,ACTRESS IN A LEADING ROLE,True,Frances McDormand,Frances,McDormand,3910
