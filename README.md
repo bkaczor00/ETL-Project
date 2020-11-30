@@ -1,57 +1,42 @@
-# Guidelines for ETL Project
+# ETL Project
+Using extract, transform and load to find the lead actors/actresses in Oscar-winning films
 
-This document contains guidelines, requirements, and suggestions for Project 1.
 
-## Team Effort
+## Data Sources
 
-Due to the short timeline, teamwork will be crucial to the success of this project! Work closely with your team through all phases of the project to ensure that there are no surprises at the end of the week.
+* CSV 
+Data: Academy Award Winners spanning from 1927 - 2017
+Link: https://datahub.io/rufuspollock/oscars-nominees-and-winners#resource-data
 
-Working in a group enables you to tackle more difficult problems than you'd be able to working alone. In other words, working in a group allows you to **work smart** and **dream big**. Take advantage of it!
+* API
+Data: Database which includes many search features for film and television including cast, crew, plot, and reviews among others 
+Link: https://developers.themoviedb.org/3/getting-started/introduction
 
-## Project Proposal
-
-Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
-
-Take advantage of your Instructor and TA support during office hours and class project work time. They are a valuable resource and can help you stay on track.
-
-## Finding Data
-
-Your project must use 2 or more sources of data. We recommend the following sites to use as sources of data:
-
-* [data.world](https://data.world/)
-
-* [Kaggle](https://www.kaggle.com/)
-
-You can also use APIs or data scraped from the web. However, get approval from your instructor first. Again, there is only a week to complete this!
 
 ## Data Cleanup & Analysis
 
-Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
+TRANSFORM
+-Read data_csv.csv (Academy Award Data) into Pandas dataframe
+-Selected all Academy winners
+-Selected Best Actress and Best Actor categories (Actor, Actress, Actor In A Leading Role, Actress In A Leading Role)
+-Extracted the first and last name for each actor/actress and appended both values to the dataframe 
+-Queried through the API to find each actor/actress’s ID Number and appended it to the dataframe
+-Queried through the API to find each movie title the actor/actress was in using their ID Number and created a DataFrame consisting of the actor/actress’s ID Number and Movie Title
+-Created a DataFrame consisting of the actor/actress and their ID Number
+-Exported all DataFrames as csv’s to be used in SQL
+-Removed commas from movie title fields because they were being mistaken as delimiters in Postgres
 
-* The sources of data that you will extract from.
+LOAD
+Relational database because of primary/foreign key relationships 
+Use SQL for relational databases. 
 
-* The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+Tables
+actor_actress 
+Includes year of the award win, the award category, winner = True, and actor/actress name. It’s used to store the main data that other tables can reference to if wanting to view everything at once.
 
-* The type of final production database to load the data into (relational or non-relational).
+actor_id 
+Includes entity (Actor/Actress first and last name) and ID number (unique key)
+Because some actors/actresses have won multiple years we needed to drop the duplicates in order to create a primary key.
 
-* The final tables or collections that will be used in the production database.
-
-You will be required to submit a final technical report with the above information and steps required to reproduce your ETL process.
-
-## Project Report
-
-At the end of the week, your team will submit a Final Report that describes the following:
-
-* **E**xtract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
-
-* **T**ransform: what data cleaning or transformation was required.
-
-* **L**oad: the final database, tables/collections, and why this was chosen.
-
-Please upload the report to Github and submit a link to Bootcampspot.
-
-- - -
-
-### Copyright
-
-Coding Boot Camp © 2019. All Rights Reserved.
+actor_id_title
+Includes the actor/actress IDs (as a foreign key) and all of the movies they’ve been in.
